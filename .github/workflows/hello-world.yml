@@ -35,7 +35,7 @@ jobs:
       with:
         name: code
         path: .
-    - name: Upload Jar
+    - name: Upload Jar1
       uses: actions/upload-artifact@v2
       with:
         name: code
